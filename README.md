@@ -3,6 +3,7 @@
 - 👀 I’m interested in Quality Assurance
 - 📫 How to reach me dilimulati.daniyaer.1@gmail.com
 - LinkedIn: www.linkedin.com/in/daniel-daniyaer
+- Postman API Practice: https://www.postman.com/daniyar0610
 
  # Technical Expertise
   - Selenium
